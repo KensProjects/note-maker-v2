@@ -8,6 +8,9 @@ export default {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
       },
+      backgroundImage:{
+        desk:"url('/desk-svg-by-macrovector-on-Freepik.svg')"
+      }
     },
   },
   plugins: [],

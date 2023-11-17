@@ -1,0 +1,1 @@
+export const initialNote = { label: "", body: "" }
